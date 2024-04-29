@@ -13,4 +13,4 @@ Parameters:
 none
 
 Result:
-should be 7 (for 000) or 0 (for 000).
+should be 7 (for 111) or 0 (for 000).
